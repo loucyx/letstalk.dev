@@ -1,9 +1,8 @@
-![hablemos.dev logo](./hablemos.dev.logo.png)
+![Let's talk dev logo](./logo.64.png)
 
-Hablemos.dev website.
+# Let's talk dev official website
 
 ## Links
 
-- [Twitch stream](https://lshi.ru/twitch).
+- [YouTube channel](https://luke.sh/yt).
 - [Discord channel](https://discord.gg/tsSNNXaCcj).
-- [YouTube Playlist](https://www.youtube.com/playlist?list=PLimjIrLnn1feU2EqK2DYvE1gBhSanomQU).
